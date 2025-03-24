@@ -2,6 +2,7 @@
 import java.io.*;
 public class PracticeProblem {
 
+//1
 public static String getName(int line, String file){
 	BufferedReader fr = null;
 	String out = "";
@@ -30,7 +31,7 @@ catch (IOException e){}
 }
 
 
-
+//2
 public static int getAge(int line, String file){
 	BufferedReader br = null;
 	String out = "";
@@ -66,6 +67,8 @@ else {
 }
 }
 
+
+//3
 public static int getNumber(int line, String file){
 	BufferedReader rd = null;
 	String check ="";
