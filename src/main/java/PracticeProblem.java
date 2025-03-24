@@ -96,6 +96,8 @@ try {
 	return out;
 }
 
+
+//4
 public static void fileAppend(String output, String filename){
 	BufferedWriter bw= null;
 try{
